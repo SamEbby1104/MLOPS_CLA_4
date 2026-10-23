@@ -1,10 +1,3 @@
-
-# ML Model Deployment Strategies and Model Serving using FastAPI
-
-This project is a starter structure for a college experiment using the official
-Kaggle Titanic dataset. The experiment will train a classification model and
-compare several ways to make that model available for predictions.
-
 ## Official dataset
 
 Download the dataset from the official Kaggle competition page:
@@ -78,4 +71,3 @@ PowerShell and then activate the environment again:
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
-# MLOPS_CLA_4
